@@ -1,4 +1,4 @@
-GuruBot~JsW6GJe2<h1 align="center"> Hacked World :) </h1>
+<h1 align="center"> Hacked World :) </h1>
 <p align="center">
 •●•
 </p>
@@ -35,7 +35,7 @@ GuruBot~JsW6GJe2<h1 align="center"> Hacked World :) </h1>
 
 <img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-2.svg">
 
-- ➪ 𝙽𝙰𝙼𝙴 :- RJ Shuvo
+- ➪ 𝙽𝙰𝙼𝙴 :- Infex-jay
 
 <img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-2.svg">
 
@@ -50,20 +50,20 @@ GuruBot~JsW6GJe2<h1 align="center"> Hacked World :) </h1>
 
 <img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-2.svg">
 
-- 🤲🏻 𝚁𝙴𝙻𝙸𝙶𝙸𝙾𝙽 :- 𝙸𝚂𝙻𝙰𝙼
+- 🤲🏻 𝚁𝙴𝙻𝙸𝙶𝙸𝙾𝙽 :- Christian
 
 <img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-2.svg">
 
-- ➪ 𝙵𝙰𝙲𝙴𝙱𝙾𝙾𝙺 :- [RJ Shuvo (Link Dimu na😒)
+- ➪ 𝙵𝙰𝙲𝙴𝙱𝙾𝙾𝙺 :- [Infex (Link Dimu na😒)
 
 <img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-2.svg">
 
-- ➪FACEBOOK PAGE :- [RJ Shuvo]
+- ➪FACEBOOK PAGE :- [Infex-jay]
 (https://www.facebook.com/profile.php?id=100063770347699)
 
 <img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-2.svg">
 
-- ➪ 𝙵𝙰𝙲𝙴𝙱𝙾𝙾𝙺 PAGE :- RJ Shuvo [](https://www.facebook.com/profile.php?id=100063770347699)
+- ➪ 𝙵𝙰𝙲𝙴𝙱𝙾𝙾𝙺 PAGE :- Infex-jay [](https://www.facebook.com/profile.php?id=100063770347699)
 
 
 <img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-2.svg">
