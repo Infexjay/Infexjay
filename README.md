@@ -14,12 +14,12 @@
 </i></b></h3>
 <h3 align="center">
   <img src="https://emoji.discord.st/emojis/768b108d-274f-4f44-a634-8477b16efce7.gif" width="25">
-  &nbsp; ᗯᗴᒪᑕOᗰᗴ ᗰY ᑭᖇOᖴIᒪᗴ&nbsp;
+  &nbsp; ᗯᗴᒪᑕOᗰᗴ TO ᗰY ᑭᖇOᖴIᒪᗴ&nbsp;
   <img src="https://emoji.discord.st/emojis/768b108d-274f-4f44-a634-8477b16efce7.gif" width="25">
 </h3>
 <img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-1.svg">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23F70B10&size=27&lines=𝘐+𝘈𝘔+𝘋𝘈𝘙𝘒𝘕𝘌𝘚𝘚)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23F70B10&size=27&lines=𝘐+𝘈𝘔+𝘋𝘈𝘙𝘒𝘕𝘌𝘚𝘚+Don't+Joke+wit+ME)](https://git.io/typing-svg)
 
 <h3><b><i>🏆 Github Statistics :</i></b></h3>
 <a href="https://github.com/Infexjay"><img title="trophy" src="https://github-profile-trophy.vercel.app/?username=iamdarkness404&theme=monokai"></a>
