@@ -22,7 +22,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23F70B10&size=27&lines=𝘐+𝘈𝘔+𝘋𝘈𝘙𝘒+𝘕𝘌𝘚𝘚)](https://git.io/typing-svg)
 
 <h3><b><i>🏆 Github Statistics :</i></b></h3>
-<a href="https://github.com/RJ-Shuvo"><img title="trophy" src="https://github-profile-trophy.vercel.app/?username=iamdarkness404&theme=monokai"></a>
+<a href="https://github.com/Infexjay"><img title="trophy" src="https://github-profile-trophy.vercel.app/?username=iamdarkness404&theme=monokai"></a>
 </p>
 <p align="center"> 
  𝚅𝙸𝚂𝙸𝚃𝙾𝚁𝚂 𝙲𝙾𝚄𝙽𝚃
@@ -31,7 +31,7 @@
 
 <img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-1.svg">
 
-<h3 align="center">A Passionate Frontend Developer From Bangladesh</h3>
+<h3 align="center">A Passionate Frontend Developer From Nigeria</h3>
 
 <img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-2.svg">
 
@@ -113,5 +113,5 @@
 
 <h2><img width="28" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/icons/icon-graph.png" /><i> GitHub Contribution Graph :</i></h2>
 
-[![RJ-Shuvo's github activity graph](https://my-activity-graph-instance.herokuapp.com/graph?username=RJ-Shuvo&theme=react-dark&area=true&hide_border=true)](https://github.com/RJ-Shuvo/github-readme-activity-graph)
+[![Infex-jay's github activity graph](https://my-activity-graph-instance.herokuapp.com/graph?username=Infex-jay&theme=react-dark&area=true&hide_border=true)](https://github.com/Infexjay/github-readme-activity-graph)
 
