@@ -1,17 +1,25 @@
+<h3 align="center">🌐 Visit My Portfolio</h3>
+
+<p align="center">
+  <a href="https://infexstudio.rf.gd" target="_blank">
+    <img src="https://img.shields.io/badge/My%20Website-%F0%9F%94%A5%20InfexStudio-blue?style=for-the-badge" alt="InfexStudio Website">
+  </a>
+</p>
+
 <h1 align="center">⚔️ INFEXJAY ⚔️</h1>
 <h3 align="center">💀 From Underground Hacker to Full-Stack Architect 🚀</h3>
 
 <p align="center">
-  <img src="https://giffiles.alphacoders.com/120/120248.gif" height="200" alt="Animated GIF" />
+  <img src="https://giffiles.alphacoders.com/120/120248.gif" height="200" alt="Animated Hacker GIF" />
 </p>
 
 <p align="center">
-  <b><i>Now I don’t just hack systems. I design empires.</i></b>
+  <b><i>Now I don’t just hack systems. I design empires. 👑</i></b>
 </p>
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?color=%23F70B10&center=true&width=600&lines=⚡+Full-Stack+Engineer+%7C+AI+Builder+%7C+Ex-Hacker;🔥+I+break+limits,+not+laws;🚀+Building+BoomFare,+Game+Booster,+and+AI+Face+ID" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?color=%23FF007F&center=true&width=600&lines=⚡+Full-Stack+Engineer+%7C+AI+Builder+%7C+Ex-Hacker;🔥+Breaking+Limits,+Not+Laws;🧠+Tech+Warlord+In+Training;💣+Deploying+BoomFare,+Game+Booster,+AI+Face+ID" alt="Typing SVG" />
   </a>
 </p>
 
@@ -19,102 +27,88 @@
 
 <h2 align="center">🚀 Who TF Is Infexjay?</h2>
 
+<table align="center">
+<tr><td><strong>Name:</strong></td><td>Infexjay</td></tr>
+<tr><td><strong>Role:</strong></td><td>Full-Stack Developer / AI Engineer / Ex-Hacker</td></tr>
+<tr><td><strong>Location:</strong></td><td>Nigeria 🇳🇬</td></tr>
+<tr><td><strong>Stack:</strong></td><td>MERN, Laravel, Tailwind, Firebase, Python, Kotlin, Java</td></tr>
+<tr><td><strong>Specialties:</strong></td><td>Mobile Apps, AI Agents, Security Tools, Game Boosting</td></tr>
+<tr><td><strong>Projects:</strong></td><td>BoomFare, Game Booster, AI Face ID, VulnScanX</td></tr>
+</table>
+
+---
+
+<h2 align="center">🧠 Projects That Hit HARD</h2>
+
+💬 <b>BoomFare Messenger:</b> Encrypted chat app for the 🇳🇬 street  
+🎮 <b>Infex Game Booster:</b> Auto GFX tweaker for high FPS gains  
+🔓 <b>AI Face ID:</b> Face unlock w/ iPhone-style animation  
+🛡️ <b>VulnScanX:</b> Port scanner + vuln detector  
+🧙 <b>SilentReaper:</b> External Free Fire Max mod  
+📹 <b>Stray Dog:</b> CCTV terminal app with 10-sec counter  
+
+---
+
+<h2 align="center">🧰 Skill Arsenal</h2>
+
 <p align="center">
-  <strong>Name:</strong> Infexjay <br>
-  <strong>Role:</strong> Full-Stack Developer / AI Engineer / Ex-Hacker <br>
-  <strong>Location:</strong> Nigeria 🇳🇬 <br>
-  <strong>Stack:</strong> MERN, Laravel, Tailwind, Firebase, Python, Kotlin, Java <br>
-  <strong>Specialties:</strong> Mobile Apps, AI Agents, Security Tools, Game Boosting <br>
-  <strong>Built Projects:</strong> BoomFare, Infex Game Booster, AI Face ID, VulnScanX
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,nextjs,php,laravel,python,mysql,mongodb,tailwind,java,kotlin,androidstudio,firebase,git,github,vscode,linux,figma" alt="Skill Icons" />
 </p>
 
 ---
 
-<h2 align="center">🔥 Skills</h2>
+<h2 align="center">📊 GitHub Metrics</h2>
+
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,nextjs,php,laravel,python,mysql,mongodb,tailwind,java,kotlin,androidstudio,firebase,git,github,vscode,linux" alt="Skills" />
-</p>
-
----
-
-<h2 align="center">🎯 Current Focus</h2>
-<ul>
-  <li>✅ Rebranding as a **Full-Stack Engineer**</li>
-  <li>✅ Building **AI Agent-Based Apps** (Dishcovery, SkyFlow)</li>
-  <li>✅ Creating Real-World Tools with Style and Power</li>
-  <li>✅ UI That Slaps + Code That Works</li>
-</ul>
-
----
-
-<h2 align="center">🧠 Projects That Hit Hard</h2>
-<ul>
-  <li>⚔️ **BoomFare Messenger** – Encrypted, sleek Nigerian messaging app</li>
-  <li>🚀 **Infex Game Booster** – Android GFX + auto optimizer</li>
-  <li>👁️‍🗨️ **AI Face ID** – Face unlock + iPhone-style animations</li>
-  <li>🛡️ **VulnScanX** – Port scanner with exploit detection</li>
-  <li>🧙 **SilentReaper** – External cheat tool for Free Fire Max</li>
-  <li>🔐 **Stray Dog** – CCTV viewer with sci-fi countdown</li>
-</ul>
-
----
-
-<h2 align="center">📊 GitHub Stats</h2>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Infexjay&show_icons=true&theme=tokyonight&count_private=true" alt="Infexjay GitHub Stats" />
-  <br>
+  <img src="https://github-readme-stats.vercel.app/api?username=Infexjay&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" />
+  <br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Infexjay&layout=compact&theme=tokyonight" alt="Top Languages" />
-  <br>
-  <img src="http://github-readme-streak-stats.herokuapp.com/?user=Infexjay&theme=tokyonight&hide_border=false" alt="GitHub Streak" />
+  <br/>
+  <img src="http://github-readme-streak-stats.herokuapp.com?user=Infexjay&theme=tokyonight&hide_border=false" alt="GitHub Streak" />
 </p>
 
 ---
 
-<h2 align="center">🏆 Achievements & Trophies</h2>
+<h2 align="center">🏆 Trophies</h2>
+
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Infexjay&theme=darkhub&no-frame=true&no-bg=true" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Infexjay&theme=onedark&no-bg=true&no-frame=true" alt="GitHub Trophies" />
 </p>
 
 ---
 
-<h2 align="center">🌍 Connect With Me</h2>
-<p align="center">
-  <a href="https://www.facebook.com/profile.php?id=100063770347699" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=facebook" alt="Facebook" />
-  </a>
-  <a href="https://instagram.com" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-red?style=for-the-badge&logo=instagram" alt="Instagram" />
-  </a>
-  <a href="https://m.me/" target="_blank">
-    <img src="https://img.shields.io/badge/Messenger-0084FF?style=for-the-badge&logo=messenger" alt="Messenger" />
-  </a>
-  </p>
+<h2 align="center">⚙️ Setup & Stack</h2>
+
+💻 <b>PC:</b> Lenovo ThinkPad W530 (NVIDIA K2000M)  
+🧪 <b>Tools:</b> Termux, VS Code, Firebase, Android Studio, Groq Cloud, MSYS2  
+🧠 <b>AI Assistants:</b> Codeium, Continue.dev, CodeWhisperer, OpenAI (👋)  
 
 ---
 
-<h2 align="center">⚙️ Dev Environment</h2>
-<ul>
-  <li>🔧 **PC**: Lenovo ThinkPad W530 (K2000M GPU)</li>
-  <li>🧪 **Tools**: Termux, VS Code, Firebase, Android Studio, Groq Cloud, Vertex AI, MSYS2</li>
-  <li>🤖 **AI Assistants**: Codeium, Continue.dev, CodeWhisperer</li>
-</ul>
+<h2 align="center">🌐 Connect With Me</h2>
 
----
-
-<h2 align="center">📈 Contribution Graph</h2>
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Infexjay&theme=react-dark&area=true&hide_border=true" alt="Contribution Graph" />
+  <a href="https://facebook.com/profile.php?id=100063770347699" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Badge" /></a>
+  <a href="https://instagram.com" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge" /></a>
+  <a href="https://m.me/" target="_blank"><img src="https://img.shields.io/badge/Messenger-0078FF?style=for-the-badge&logo=messenger&logoColor=white" alt="Messenger Badge" /></a>
 </p>
 
 ---
 
-<h3 align="center">🗡️ "From hack to stack. I build. I deploy. I dominate." 🗡️</h3>
+<h2 align="center">📈 Contribution Heatmap</h2>
 
 <p align="center">
-  <img src="https://profile-counter.glitch.me/{Infexjay}/count.svg" alt="Profile views" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Infexjay&theme=react-dark&area=true&hide_border=true" alt="Contribution Heatmap" />
 </p>
 
-<h3 align="center">👋 Say Hi!</h3>
+---
+
+<h2 align="center">👁 Profile Views</h2>
+
 <p align="center">
-  Feel free to reach out if you have questions, project ideas, or just want to connect!
+  <img src="https://profile-counter.glitch.me/Infexjay/count.svg" alt="Profile Views Counter" />
 </p>
+
+---
+
+<h3 align="center">🗡️ From Hack to Stack. I Build. I Deploy. I Dominate. 🗡️</h3>
