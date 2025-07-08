@@ -88,9 +88,9 @@
 <h2 align="center">🌐 Connect With Me</h2>
 
 <p align="center">
-  <a href="https://facebook.com/profile.php?id=100063770347699" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Badge" /></a>
+  <a href="https://www.facebook.com/LH.CIA.45/" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Badge" /></a>
   <a href="https://instagram.com" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge" /></a>
-  <a href="https://m.me/" target="_blank"><img src="https://img.shields.io/badge/Messenger-0078FF?style=for-the-badge&logo=messenger&logoColor=white" alt="Messenger Badge" /></a>
+  <a href="https://www.facebook.com/LH.CIA.45/" target="_blank"><img src="https://img.shields.io/badge/Messenger-0078FF?style=for-the-badge&logo=messenger&logoColor=white" alt="Messenger Badge" /></a>
 </p>
 
 ---
