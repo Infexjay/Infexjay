@@ -95,10 +95,34 @@
 
 ---
 
+<h2 align="center">🐍 Contribution Snake 🐍</h2>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="dist/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="dist/github-snake.svg" />
+    <img alt="github snake" src="dist/github-snake.svg" />
+  </picture>
+</p>
+
+<p align="center">
+  <img src="dist/ocean.gif" alt="ocean gif" />
+</p>
+
+---
+
 <h2 align="center">📈 Contribution Heatmap</h2>
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Infexjay&theme=react-dark&area=true&hide_border=true" alt="Contribution Heatmap" />
+</p>
+
+---
+
+<h2 align="center">🎮 Profile Game 🎮</h2>
+
+<p align="center">
+  <i>Coming soon... stay tuned for some interactive fun!</i>
 </p>
 
 ---
